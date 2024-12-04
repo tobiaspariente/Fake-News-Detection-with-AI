@@ -1,4 +1,4 @@
-# 📰 Fake News Classifier with AI
+# 📰 Fake News Detection with AI
 
 ## 🎥 Demo Time
 Experience the project in action:  
